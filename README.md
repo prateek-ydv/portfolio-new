@@ -154,7 +154,7 @@ npm run build
 
 ## Contact
 
-- **Email**: yprateek18@gmail.com
+- **Email**: yprateek181@gmail.com
 - **GitHub**: [prateek-ydv](https://github.com/prateek-ydv)
 - **LinkedIn**: [prateek-yadav4221](https://linkedin.com/in/prateek-yadav4221)
 

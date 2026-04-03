@@ -2,7 +2,7 @@ export const personal = {
   name: "Prateek Yadav",
   title: "DevSecOps Engineer",
   company: "Coralogix",
-  email: "yprateek18@gmail.com",
+  email: "yprateek181@gmail.com",
   github: "https://github.com/prateek-ydv",
   linkedin: "https://linkedin.com/in/prateek-yadav4221",
   location: "India",
