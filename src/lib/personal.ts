@@ -6,10 +6,10 @@ export const personal = {
   github: "https://github.com/prateek-ydv",
   linkedin: "https://linkedin.com/in/prateek-yadav4221",
   location: "India",
-  bio: `I started my journey in SOC operations at Coralogix — analyzing threats, building vulnerability management systems, and responding to real-world incidents across multi-tenant environments. Now, as a DevSecOps engineer, I've shifted focus to automation, customer onboardings, and building internal tools. I work on CI/CD pipelines, threat intelligence automation, and integrations across all Cloud providers and Security tools. I ship faster using Claude for architecture decisions and Cursor for AI-assisted development.`,
+  bio: `I started in SOC operations at Coralogix — threat analysis, vulnerability management, and incident response across multi-tenant cloud environments. Now as a DevSecOps engineer, I build CI/CD pipelines, threat intelligence automation, and API-driven integrations across AWS, Azure, and GCP. I work with Terraform for IaC, GitHub Actions for automation, and build Slack bots for security workflows. I ship faster using Claude for architecture decisions and Cursor for AI-assisted development.`,
   roles: [
     "DevSecOps Engineer @ Coralogix",
-    "Automation · CI/CD · Internal Tools",
-    "Ex-SOC Ops · Cloud Security"
+    "CI/CD · Threat Intel · Cloud Security",
+    "AWS · Azure · GCP · Terraform"
   ],
 };
