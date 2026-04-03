@@ -49,12 +49,4 @@ export const projects: Project[] = [
     githubUrl: "https://github.com/prateek-ydv/weatherapp",
     status: "live",
   },
-  {
-    id: "6",
-    title: "Emojipedia",
-    description: "A fun and dynamic emoji dictionary with searchable entries and detailed meanings for every emoji.",
-    techStack: ["JavaScript", "React", "CSS"],
-    githubUrl: "https://github.com/prateek-ydv/emojipedia",
-    status: "live",
-  },
 ];
